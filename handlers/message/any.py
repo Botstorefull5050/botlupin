@@ -28,7 +28,7 @@ async def deflang(client, message):
 # Define what updates to reject
 @Client.on_message(~filters.private | filters.edited)
 async def reject(client, message):
-    if message.chat.type != "private" and message.chat.id != -1001677113138:
+    if message.chat.type != "private" and message.chat.id != -1001738169380:
         await message.chat.leave()
     message.stop_propagation()
 
