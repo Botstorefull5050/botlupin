@@ -11,8 +11,9 @@ start_text: |-
     
 # user wallet info
 wallet_info: |-
-    Explore o bot pelos botões abaixo. Qualquer dúvida é só chamar @SnowCcs.
+    Explore o bot pelos botões abaixo. Qualquer dúvida é só chamar @LupinCcsw.
     <b>Avisos</b>
+    
     
     - Checker online ✅
     
@@ -95,7 +96,7 @@ buy_mix_resell: |-
     🤝 Comprar <u>Mix para revenda</u>
     Mix por valor promocional e <b>sem trocas</b>.
 buy_mix_resell_denied: |-
-    ❗ Para comprar mixes para revenda, é necessário conversar no privado com @oWDinfos.
+    ❗ Para comprar mixes para revenda, é necessário conversar no privado com @LupinCcsw.
 buy_cc_mix_text: |-
     🔀 Comprar <u>Mix</u>
     Mix por valor promocional e <b>sem trocas</b>. Black e Infinite só estão inclusas em mixes <b>acima de 10</b> (Ver na opção Para revenda).
@@ -115,7 +116,7 @@ gift_user_usage: |-
     ℹ️ Modo de uso do <code>/gift</code>: <code>/gift</code> + GIFT_CARD
     Exemplo: <code>/gift A1B2C3D4E5F</code>
 gift_created: |-
-    🏷 <b>Snow Wallet</b>
+    🏷 <b>Lupin Wallet</b>
     💰 <b>Valor</b>: <b>R${price}</b>
     📥 <b>Cod</b>: <code>/gift {code}</code>
 gift_redeemed_alert: |-
@@ -137,11 +138,11 @@ ask_gift_card: |-
 gift_card_not_found_to_redeem: |-
     ❌ Não encontrei nenhum gift card na sua mensagem, por favor verifique se digitou corretamente. Um gift card é um código de 11 caracteres (letras maiúsculas e números), algo parecido com A1B2C3D4E5F.
 lara_pix_info: |-  
-    - <b>NOME</b>: <code>ANTONIO</code>
-    - <b>CHAVE</b>: <code>e8f82ea9-0b33-4123-bbbe-236a69386007</code>
-    - <b>BANCO</b>: <code>PAGBANK</code>
+    - <b>NOME</b>: <code>NOME</code>
+    - <b>CHAVE</b>: <code>PIX</code>
+    - <b>BANCO</b>: <code>BANK</code>
       
-     🏦 MANDE O COMPROVANTE PARA @SnowCCc.
+     🏦 MANDE O COMPROVANTE PARA @LupinCcsw.
 add_balance_text: |-
     ESCOLHA A FORMA DE PAGAMENTO ABAIXO
 my_balance_text: |-
@@ -163,7 +164,7 @@ confirm_buy_text: |-
     </b>
     Confirme que entendeu, para prosseguir.
 product_not_available_anymore: |-
-    ❌ Este produto não está mais disponível. Caso ache que é um engano, contate @SnowCcs.
+    ❌ Este produto não está mais disponível. Caso ache que é um engano, contate @LupinCcsw.
 not_enough_ccs: |-
     ❗️ Infelizmente não consegui CCs lives na quantia requisitada, tente novamente mais tarde. O valor referente a elas (R${price}) foi estornado para sua carteira.
 not_enough_balance: |-
@@ -208,7 +209,7 @@ could_not_get_bin_info: |-
 buy_bin: |-
     💰 Comprar {quant} - R${price}
 prices_has_not_level: |-
-    ❌ Não há preço definido para cartões de nível {level}. Por favor tire um print desta mensagem e envie para @SnowCCs para que o nível possa ser adicionado.
+    ❌ Não há preço definido para cartões de nível {level}. Por favor tire um print desta mensagem e envie para @LupinCcsw para que o nível possa ser adicionado.
 not_enough_ccs_for_bin: |-
     ❌ Não há mais a quantidade desejada para o pacote de bins, o valor das mesmas foi estornado. Quantidade disponível: {available}.
 error_too_short_buy_interval: |-
